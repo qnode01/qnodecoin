@@ -9,13 +9,13 @@ What is Qnodecoin?
 Qnodecoin is a decentralised digital currency with near-instant transaction speeds and negligible transaction fees built upon Proof of Stake 3.0 (PoSV3, BPoS) as
 introduced by the Qnodecoin development team.
 
-For more information about Qnodecoin itself, see https://qnodecoin.org.
+For more information about Qnodecoin itself, see https://qnhnode.cc/learn-centre
 
 What is Qnodecoin?
 ----------------
 
-Qnodecoin is the name of open source software which enables the use of this currency. It takes Qnodecoin to the next level by building upon
-Bitcoin Core 0.13.2 with some patches from newer Bitcoin Core versions to offer performance enhancements, wider compatibility with third party services and a more advanced base.
+Qnodecoin is the name of the open source software which enables the use of this currency. It takes Qnodecoin (XQN) to the next level by building upon
+Blackcoin Core 0.13.2 with some patches from newer Bitcoin Core versions to offer performance enhancements, wider compatibility with third party services and a more advanced base.
 
 For more information, as well as an immediately useable, binary version of the Qnodecoin software, see https://qngnode.cc.
 
